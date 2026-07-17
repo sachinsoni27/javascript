@@ -32,4 +32,65 @@ console.log(stringNumber)  // score = 1  = "1" // score = 0  = "0" // score = -1
 // score = null  = "null" // score = NaN  = "NaN" //score = ""  = "" // score = "sachin"  = "sachin" // score = " "  = " " // score = "0"  = "0" 
 // // score = "1"  = "1" // score = "-1"  = "-1"
 console.log(typeof stringNumber)
+  
+
+
+
+
+
+console.log("     ");
+console.log("     ");
+console.log("     ");
+console.log("     ");
+console.log("     ");
+console.log("     ");
+console.log("     ");
+console.log("     ");
+
+//=================================================* OPERATION *==========================================================================================================
+let value = 10
+let negVaue = -value
+console.log(negVaue)  // it will convert positive number to negative number and negative number to positive number
+  
+console.log(2 +  2)
+console.log(2 -  2)
+console.log(2 *  2)
+console.log(2 ** 2)
+console.log(2 /  2)
+
+let str1 = "sachin"
+let str2 = "soni"
+console.log(str1 + str2)  // it will concatenate two string
+
+
+
+
+console.log("     ");
+console.log("     ");
+console.log("     ");
+console.log("     ");
+console.log("     ");
  
+
+console.log("1"+2)
+console.log(1+"2")
+console.log("1"+"2")
+console.log("1"+2 +2)
+console.log(1+2+"2")
+
+
+ 
+console.log("     ");
+console.log("     ");
+
+
+let x = 3;
+const y = x++;
+console.log(x);
+console.log(y);
+
+
+let a =3
+const b = ++a
+console.log(a)
+console.log(b)
