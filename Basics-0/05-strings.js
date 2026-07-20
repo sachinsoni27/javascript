@@ -1,3 +1,6 @@
+// about strings in javascript
+
+
 const name = " hitesh"
 const repoCount = 50
 
